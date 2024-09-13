@@ -6,4 +6,4 @@ Experimental game that has been used as a demo for OpenAI newest "reasoning" o1 
 
 Images has been created by the newest image generating model from Google's Gemini
 
-![Koala Game](main.jpeg)
+![Koala Game](main.jpeg){: width=100 height=100}
